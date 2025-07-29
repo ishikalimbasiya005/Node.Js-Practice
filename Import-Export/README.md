@@ -1,4 +1,4 @@
-# Node.Js-Practice
+# Import-Export in Node.Js
 
 This project demonstrates basic **module import and export** functionality in Node.js.
 
