@@ -23,8 +23,8 @@ This project is a basic template website built using **Node.js**, **Express.js**
 ---
 1. **Install dependencies** (if any):
    ```bash
-   npm install```
-
+   npm install
+   
 2. **Start the server:**
    ```node express.js```
 
