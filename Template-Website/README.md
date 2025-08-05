@@ -33,8 +33,14 @@ This project is a basic template website built using **Node.js**, **Express.js**
    
 ---
 
+## Website Demo:
+![demo](demo.png)
+
+---
+
 # 📸 Template Website Note
 
 > **Note:**  
 > Only the **Photos** page will run. The **Video**, **About**, and **Contact** pages are **not defined**. These are just included as examples.
+
 
