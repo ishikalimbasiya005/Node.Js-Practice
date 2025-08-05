@@ -16,6 +16,7 @@ project-folder/
 ├── package-lock.json
 ├── node_modules
 ```
+
 #### Run Command Automatically Installed package.json, package-lock.json, node_modules
 ```bash
 npm install init
@@ -32,7 +33,7 @@ If you've received this as a `.zip`, extract it and open in your terminal.
 
 ---
 
-### 3.Start the Server
+### 2.Start the Server
 ```bash
 node app.js
 ```
