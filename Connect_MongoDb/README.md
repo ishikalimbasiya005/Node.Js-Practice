@@ -34,10 +34,12 @@ npm init -y
 ---
 
 ## 🗃️ MongoDB Setup
-Before running the project, create:
-Database: first
-Collection: mydemos
-You can use MongoDB shell or Compass.
+
+- Before running the project, ensure MongoDB is installed and running.
+- Create a database named: `first`
+- Inside the database, create a collection named: `mydemos`
+- You can use MongoDB Shell or MongoDB Compass for this setup.
+
 
 ---
 
