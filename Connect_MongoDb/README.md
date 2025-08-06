@@ -60,10 +60,14 @@ node API.js
 
 2. **Access the API**
 In Firefox, open:
-```http://localhost:5070 ```
+```bash
+http://localhost:5070
+```
 
 In Postman, use the same URL:
-```http://localhost:5070```
+```bash
+http://localhost:5070
+```
 Make sure to set the request method to GET and then click Send.
 
 ---
